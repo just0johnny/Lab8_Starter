@@ -2,7 +2,7 @@
     "name": "just0johnny/Lab8-Starter",
     "short_name": "Johnny",
     "description": "Thanksgiving Recipe Cards",
-    "start_url": "http://127.0.0.1:5501/index.html",
+    "start_url": "https://just0johnny.github.io/Lab8_Starter/",
     "display": "standalone",
     "background_color": "black",
     "theme_color": "black",
